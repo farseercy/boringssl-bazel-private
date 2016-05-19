@@ -1,3 +1,3 @@
 [submodule "src"]
 	path = src
-	url = https://boringssl.googlesource.com/boringssl
+	url = git@github.com:kahitomi/boringssl_private.git
